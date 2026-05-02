@@ -12,11 +12,13 @@ It will be used to classify uncertain galaxies, which are taken from 240,000 gal
 * I love astronomy and wanted to do a mini research project, so I decided to code a way to help the Galaxy Zoo Team.
 * The first part of my project is learning how to use a CNN and implement galaxy classifications by training my model made from scratch.
    * My current model (last cell of the Google Colab) has an accuracy of around 80%.
+   * This is located in the google colab file (.ipynb file)
 * The second part of this project was actually utilizing my model to classify uncertain galaxies:
    * To get a list of uncertain galaxies, I used the 2016 Galaxy Zoo excel dataset that has the classifications for over 240,000 galaxies.
    * I developed a script to look through all 240,000 galaxies and find the ones that had uncertain classifications (between 0.4 and 0.6).
    * This script found around ~20,000 uncertain galaxies.
-   * However, I couldn't download 20,000 pictures of uncertain galaxies because it would damage my laptop, so I decided to only download about 1500 pictures of the uncertain galaxies.
+   * However, I couldn't download 20,000 pictures of uncertain galaxies because it would damage my laptop, so I decided to only download about 1500 pictures of the uncertain galaxied using the script.
+   * This file is the UncertainClassification.py file
    * These images are waiting for classification after I further improve my model to around 90% accuracy.
 
 # Some Images of Gakaxy Images I collected
