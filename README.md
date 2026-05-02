@@ -21,11 +21,12 @@ It will be used to classify uncertain galaxies, which are taken from 240,000 gal
 
 # Some Images of Gakaxy Images I collected
 
+There are many images (1500 of them), but these are just snipits.
+
 <img width="1707" height="835" alt="Screenshot 2026-05-02 110318" src="https://github.com/user-attachments/assets/7f6c0a45-4751-4f3d-9f7a-a1efc252af03" />
 <img width="1706" height="739" alt="Screenshot 2026-05-02 110305" src="https://github.com/user-attachments/assets/de3a382d-ef42-48aa-b686-d7fd7305badf" />
 <img width="1689" height="743" alt="Screenshot 2026-05-02 110248" src="https://github.com/user-attachments/assets/6a3d98d8-8a9d-40b2-8e5e-84295a8dd99f" />
 
-There are many images (1500 of them), but these are just snipits.
 
 
 
@@ -41,5 +42,5 @@ There are many images (1500 of them), but these are just snipits.
 
 
 
-Citation: 
+# Citation: 
 Hart et al. (2016), Monthly Notices of the Royal Astronomical Society, 461, 3663. 
