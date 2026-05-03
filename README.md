@@ -21,7 +21,7 @@ It will be used to classify uncertain galaxies, which are taken from 240,000 gal
    * This file is the UncertainClassification.py file
    * These images are waiting for classification after I further improve my model to around 90% accuracy.
 
-# Some Images of Gakaxy Images I collected
+# Some Images of Galaxy Images I collected
 
 There are many images (1500 of them), but these are just snipits.
 
